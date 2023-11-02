@@ -3,3 +3,24 @@
     margin:0;
     box-sizing: border-box;
 }
+.box{
+    height: 100px;
+    width:100px;
+    background-color: red;
+    border:5px solid blue;
+    margin:5px;
+    display: inline-block;
+   
+}
+.yellowbox
+{
+    height: 100px;
+    width:100px;
+    background-color: yellow;
+    border:5px solid blue;
+    margin:5px;
+    display: inline-block;
+    position: absolute;
+    top:500px;
+    left:500px;
+}
